@@ -1,6 +1,7 @@
 # Project Layout
 
 This project uses the [Pitchfork Layout](https://github.com/vector-of-bool/pitchfork) with the following configuration:
+
      * It uses the Merged Header Placement (§3.1.2).
      * Headers use the extension `.hpp`. Source files use the extension `.cpp`. Modules use the extension `.cpp`. Test files use the extension `.test.cpp`.
      * Unit tests are placed in the `tests/` folder.
